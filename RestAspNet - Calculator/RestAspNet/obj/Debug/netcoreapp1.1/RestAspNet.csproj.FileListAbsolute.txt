@@ -1,0 +1,9 @@
+C:\Users\RODRIGO\Desktop\RestAspNet\RestAspNet\RestAspNet\RestAspNet\bin\Debug\netcoreapp1.1\RestAspNet.deps.json
+C:\Users\RODRIGO\Desktop\RestAspNet\RestAspNet\RestAspNet\RestAspNet\bin\Debug\netcoreapp1.1\RestAspNet.runtimeconfig.json
+C:\Users\RODRIGO\Desktop\RestAspNet\RestAspNet\RestAspNet\RestAspNet\bin\Debug\netcoreapp1.1\RestAspNet.runtimeconfig.dev.json
+C:\Users\RODRIGO\Desktop\RestAspNet\RestAspNet\RestAspNet\RestAspNet\bin\Debug\netcoreapp1.1\RestAspNet.dll
+C:\Users\RODRIGO\Desktop\RestAspNet\RestAspNet\RestAspNet\RestAspNet\bin\Debug\netcoreapp1.1\RestAspNet.pdb
+C:\Users\RODRIGO\Desktop\RestAspNet\RestAspNet\RestAspNet\RestAspNet\obj\Debug\netcoreapp1.1\RestAspNet.csprojResolveAssemblyReference.cache
+C:\Users\RODRIGO\Desktop\RestAspNet\RestAspNet\RestAspNet\RestAspNet\obj\Debug\netcoreapp1.1\RestAspNet.AssemblyInfo.cs
+C:\Users\RODRIGO\Desktop\RestAspNet\RestAspNet\RestAspNet\RestAspNet\obj\Debug\netcoreapp1.1\RestAspNet.dll
+C:\Users\RODRIGO\Desktop\RestAspNet\RestAspNet\RestAspNet\RestAspNet\obj\Debug\netcoreapp1.1\RestAspNet.pdb
