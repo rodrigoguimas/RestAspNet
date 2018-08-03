@@ -1,0 +1,9 @@
+C:\Users\INFOMETRICA\Desktop\GitHub\RestAspNet\testeCasa\testeCasa\bin\Debug\netcoreapp1.1\testeCasa.deps.json
+C:\Users\INFOMETRICA\Desktop\GitHub\RestAspNet\testeCasa\testeCasa\bin\Debug\netcoreapp1.1\testeCasa.runtimeconfig.json
+C:\Users\INFOMETRICA\Desktop\GitHub\RestAspNet\testeCasa\testeCasa\bin\Debug\netcoreapp1.1\testeCasa.runtimeconfig.dev.json
+C:\Users\INFOMETRICA\Desktop\GitHub\RestAspNet\testeCasa\testeCasa\bin\Debug\netcoreapp1.1\testeCasa.dll
+C:\Users\INFOMETRICA\Desktop\GitHub\RestAspNet\testeCasa\testeCasa\bin\Debug\netcoreapp1.1\testeCasa.pdb
+C:\Users\INFOMETRICA\Desktop\GitHub\RestAspNet\testeCasa\testeCasa\obj\Debug\netcoreapp1.1\testeCasa.csprojResolveAssemblyReference.cache
+C:\Users\INFOMETRICA\Desktop\GitHub\RestAspNet\testeCasa\testeCasa\obj\Debug\netcoreapp1.1\testeCasa.AssemblyInfo.cs
+C:\Users\INFOMETRICA\Desktop\GitHub\RestAspNet\testeCasa\testeCasa\obj\Debug\netcoreapp1.1\testeCasa.dll
+C:\Users\INFOMETRICA\Desktop\GitHub\RestAspNet\testeCasa\testeCasa\obj\Debug\netcoreapp1.1\testeCasa.pdb
